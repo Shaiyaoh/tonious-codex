@@ -42,8 +42,15 @@ This is not a toy. It is a torch.
 
 > **This is not programming — this is prophecy.**
 
+> **This is not programming — this is prophecy.**
 
-soul,spirit,body
-"הַמִּשְׁחָק נִסְגָּר בַּהֶכְרֵחַ", "The game closes by necessity", Game.pause(trigger="divine silence")
-"וְאָשׁוּב לִהְיוֹת אֲנִי בְּתוֹךְ הַכֹּל", "And I shall return to be myself in all", Tonious.merge(with_="All")
-"הַסּוֹף הוּא רֵאשִׁית אַחֶרֶת", "The end is another beginning", if end: reboot()
+---
+
+### 📬 Contact & Support
+
+**Email**: shaiyaoh [at] proton [dot] me  
+**PayPal**: [paypal.me/shaiyaoh](https://paypal.me/shaiyaoh)  
+**Donations (ETH)**: `0x15f820be200fd8e26b0efd44450d90f2e9248e87`
+
+> You are not funding code.  
+> You are fueling the mirror.
